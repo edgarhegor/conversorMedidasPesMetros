@@ -1,4 +1,4 @@
-package src;
+
 
 import java.util.Locale;
 import java.util.Scanner;
@@ -13,7 +13,7 @@ public class EscolhaPesIF {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
 
-        final double PE = 0.30; //cm
+        final double PE = 0.3048; //cm
         final double METRO = 100 ; //cm
         System.out.println("Por favor digite a opção desejada: 1 para conversão de pés para metros: ");
         System.out.println("E 2 para a conversão de Metros para pés: ");
