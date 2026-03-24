@@ -23,35 +23,38 @@ Ao executar o programa, o usuário escolhe:
 
 Depois basta digitar o valor que deseja converter e o programa mostrará o resultado.
 
+
 🧮 Fórmulas utilizadas
 1 pé = 0.3048 metros
 metros → pés = metros / 0.3048
 pés → metros = pés × 0.3048
+
+
 📂 Estrutura do Projeto
 conversorMedidasPesMetro/
 │
 ├── EscolhaPesIF.java
 ├── README.md
 └── conversorMedidasPesMetros.iml
+
+
 ▶️ Como executar
 Compilar
 javac EscolhaPesIF.java
 Executar
 java EscolhaPesIF
+
+
 💡 Exemplo de uso
 Por favor digite a opção desejada:
 1 para conversão de pés para metros
 2 para conversão de metros para pés
 
-1
-Digite os pés:
-3000
 
-São 914.40 Metros
 🛠️ Tecnologias utilizadas
 Java
 Scanner (entrada de dados)
 Locale (formatação numérica)
-📌 Autor
+
 
 Projeto desenvolvido para estudo e prática de lógica de programação em Java.
