@@ -24,8 +24,8 @@ Saída formatada com duas casas decimais
 
 Ao executar o programa, o usuário escolhe:
 
-1 → Converter de pés para metros
-2 → Converter de metros para pés
+1 → Converter de pés para metros <br>
+2 → Converter de metros para pés <br>
 
 Depois basta digitar o valor que deseja converter e o programa mostrará o resultado.
 
@@ -37,7 +37,7 @@ metros → pés = metros / 0.3048 <br>
 pés → metros = pés × 0.3048 <br>
 
 
-
+<br>
 ## ▶️ Como executar
 
 Compilar
@@ -49,7 +49,7 @@ java EscolhaPesIF
 ## 💡 Exemplo de uso
 
 Por favor digite a opção desejada:
-1 para conversão de pés para metros
+1 para conversão de pés para metros <br>
 2 para conversão de metros para pés
 
 
