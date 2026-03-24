@@ -39,7 +39,7 @@ pés → metros = pés × 0.3048 <br>
 
 <br>
 
-##▶️ Como executar
+## ▶️ Como executar
 
 Compilar
 javac EscolhaPesIF.java
