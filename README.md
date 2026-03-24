@@ -32,12 +32,10 @@ Depois basta digitar o valor que deseja converter e o programa mostrará o resul
 
 ## 🧮 Fórmulas utilizadas
 
-1 pé = 0.3048 metros
-metros → pés = metros / 0.3048
-pés → metros = pés × 0.3048 
+1 pé = 0.3048 metros <br>
+metros → pés = metros / 0.3048 <br>
+pés → metros = pés × 0.3048 <br>
 
-
-l
 
 
 ## ▶️ Como executar
