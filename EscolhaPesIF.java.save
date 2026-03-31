@@ -32,13 +32,11 @@ public class EscolhaPesIF {
             System.out.println("Digite os metros: ");
             double entrada2 = sc.nextDouble();
             double resultado = entrada2 / PE;
-            System.out.printf("São %.2f pés \n", resultado );
+            System.out.printf("São %.2f pés ", resultado);
         }else {
             System.out.println("Digite uma alternativa válida.");
-        }
-
-
+        
         sc.close();
-
+ 
     }
 }
