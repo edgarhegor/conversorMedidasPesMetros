@@ -15,7 +15,7 @@ public class EscolhaPesIF {
 
         final double PE = 0.3048; //cm
         final double METRO = 100 ; //cm
-        System.out.println("Por favor digite a opção desejada: \n1 para conversão de pés para metros: ");
+        System.out.println("Por favor digite a opção desejada: 1 para conversão de pés para metros: ");
         System.out.println("E 2 para a conversão de Metros para pés: ");
         int entrada = sc.nextInt();
 
@@ -32,13 +32,11 @@ public class EscolhaPesIF {
             System.out.println("Digite os metros: ");
             double entrada2 = sc.nextDouble();
             double resultado = entrada2 / PE;
-            System.out.printf("São %.2f pés \n", resultado );
+            System.out.printf("São %.2f pés ", resultado);
         }else {
             System.out.println("Digite uma alternativa válida.");
-        }
-
-
+        
         sc.close();
-
+ 
     }
 }
